@@ -1,0 +1,12 @@
+# node
+node_modules/
+npm-debug.log*
+
+# env & secrets
+.env
+
+# local artifacts
+conversations.json
+analysis.json
+output.csv
+smallest_assignment_output.csv
